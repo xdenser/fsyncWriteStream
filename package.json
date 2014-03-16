@@ -1,5 +1,5 @@
 {
-  "name": "fsyncWriteStream",
+  "name": "fsync-write-stream",
   "version": "0.0.1",
   "description": "fs.writeStream wrapper fsyncing data periodically",
   "main": "lib/chunkWriteStream.js",
