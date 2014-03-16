@@ -1,0 +1,16 @@
+{
+  "name": "fsyncWriteStream",
+  "version": "0.0.1",
+  "description": "fs.writeStream wrapper fsyncing data periodically",
+  "main": "lib/chunkWriteStream.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fs",
+    "stream",
+    "write"
+  ],
+  "author": "xdenser",
+  "license": "BSD"
+}
